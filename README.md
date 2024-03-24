@@ -11,9 +11,9 @@
 <br>
 
 - 🌱 I’m currently learning **frontend frameworks and algorithms**
-- 💬 Ask me about **tech, web_dev**
+- 💬 Ask me about **tech, web_dev, algorithms... **
 
-- 📫 How to reach me through Instagram - **sanket_9673**
+- 📫 Reach me through Instagram - **sanket_9673**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
