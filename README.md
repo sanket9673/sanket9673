@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanketchavhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanketchavhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanket kisan chavhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket kisan chavhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanket-kisan-chavhan-930042273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket kisan chavhan" height="30" width="40" /></a>
 <a href="https://instagram.com/sanket_9673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanket_9673" height="30" width="40" /></a>
 <a href="https://medium.com/@sanketchavhan9673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanketchavhan9673" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sanket_9673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sanket_9673" height="30" width="40" /></a>
