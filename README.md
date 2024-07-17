@@ -10,7 +10,7 @@
 </p>
 <br>
 
-- 🌱 I’m currently learning **algorithms and frontend frameworks of web_dev**
+- 🌱 I’m currently learning **algorithms and frameworks**
 - 💬 Ask me about **tech, web_dev, algorithms**
 
 - 📫 Reach me through Instagram - **sanket_9673**
