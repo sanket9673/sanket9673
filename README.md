@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanket Chavhan</h1>
+<h1 align="center">Hi 👋, I'm Sanket Kisan Chavhan</h1>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="center">I am a tech explorer🚀, 
