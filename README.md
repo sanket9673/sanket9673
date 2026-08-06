@@ -36,19 +36,6 @@ Profiled React render performance and refactored data-fetching and memoization a
 
 <br>
 
-## Projects
-
-**YourFarmy** — Full-stack platform with AI integration · `Python` `MySQL` `Supabase`
-5 REST endpoints handling 1K+ daily requests, with an LLM-based demand forecasting module that cut prediction error by 20%. Real-time Supabase alerts and a query dashboard caught 3 N+1 bugs adding 800ms of latency.
-
-**URL Sentinel** — Predictive classification engine · `NumPy` `Pandas` `LightGBM` `GraphSAGE`
-34 engineered features feeding a LightGBM classifier trained on 650K samples — 95% accuracy, 0.97 F1-score. Reusable inference pipeline with caching cut per-sample latency by 30%.
-
-**SiteMark** — Product analytics application · `React` `TypeScript` `Tailwind CSS`
-TypeScript component architecture for a KPI dashboard, integrating 4 REST endpoints and cutting data-fetch round trips by 40% via response caching.
-
-<br>
-
 ## Publication
 
 **Signature Forgery Detection using Neural Networks** — *Indian Journal of Natural Sciences, Vol. 16, Issue 89, Apr 2025*
@@ -101,7 +88,7 @@ Siamese Neural Network in TensorFlow trained on 3,000 signature pairs — 95% ve
 
 <div align="center">
 
-sanketch9673@gmail.com · +91 9356767964 · Greater Chennai Area
+sanketch9673@gmail.com · Bengaluru
 
 </div>
 
