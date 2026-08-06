@@ -1,50 +1,81 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Sanket%20Kisan%20Chavhan&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Sanket Kisan Chavhan
 
-<h3 align="center">I am a tech explorer🚀, 
-  venturing into the digital wilderness
-  to discover new realms of possibility.</h3>
-  <br>
-<p>
-  With a keen eye for detail and a drive for continuous learning, I thrive in collaborative environments where I can contribute to meaningful projects and push the boundaries of technology. Let's connect and build something awesome together!
-</p>
+### Software Engineer — Full-Stack & AI Systems
+
+Building production ML pipelines, LLM-powered features, and full-stack products.
+Ex-RunInsights · AiHello · AI Chef Master — VIT Chennai, Integrated M.Tech Software Engineering (CGPA 8.50)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sanketc-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-kisan-chavhan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanketch9673@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sanket_9673)
+
+</div>
+
 <br>
 
-- 🌱 I'm currently learning **algorithms and frameworks**
-- 💬 Ask me about **tech, web_dev, algorithms**
+## About
 
-- 📫 Reach me through Instagram - **sanket_9673**
+Full-stack engineer with production experience across data validation pipelines, GenAI-integrated dashboards, and ML classification systems. Comfortable owning a feature from database schema to deployed UI. Currently exploring agentic systems — RAG, LangChain, LangGraph — and system design at scale.
 
-<br clear="right"/>
+<br>
 
-<h3 align="left">Connect with me:</h3>
+## Experience
+
+**Software Development Engineer Intern** — RunInsights, Delaware, US · *Sep 2025 – Oct 2025*
+Built a modular Python data validation pipeline that eliminated manual entry across 3 reporting workflows and cut reporting errors by 25%. Wrote SQL anomaly detection queries across 200K+ rows to catch data quality issues early in ETL, reducing downstream failures by 20%. Shipped tests at 80%+ coverage in CI/CD and standardized onboarding runbooks.
+
+**Frontend Developer Intern** — AiHello, Toronto, Canada · *Feb 2025 – Jun 2025*
+Delivered 6 production features in React and Python across four sprint cycles; Lighthouse-guided optimizations cut average page load from 3.2s to 1.9s. Integrated a LangChain-based GenAI summarization feature into the product dashboard and added request-level tracing that reduced debugging time by 35%.
+
+**Frontend Developer & UI Designer Intern** — AI Chef Master, Mumbai, India · *Sep 2024 – Jan 2025*
+Profiled React render performance with Chrome DevTools and refactored data-fetching and memoization across 8 components, lifting Lighthouse scores by 40%. Rebuilt 3 core user flows from usability feedback and shipped a Storybook component library that cut UI bug reports by 30%.
+
+<br>
+
+## Projects
+
+**[YourFarmy](https://sanketc-portfolio.netlify.app/)** — Full-stack platform with AI integration · `Python` `MySQL` `Supabase`
+Designed 5 REST endpoints handling 1K+ daily requests, with an LLM-based demand forecasting module that cut prediction error by 20% over the prior heuristic. Built real-time Supabase alerts and a query performance dashboard that caught 3 N+1 bugs adding 800ms of latency.
+
+**URL Sentinel** — Predictive classification engine · `NumPy` `Pandas` `LightGBM` `GraphSAGE`
+Engineered 34 features from raw URLs and trained a LightGBM classifier on 650K samples, reaching 95% accuracy and a 0.97 F1-score. Refactored inference into a reusable class hierarchy with caching and batching, cutting per-sample latency by 30%.
+
+**SiteMark** — Product analytics application · `React` `TypeScript` `Tailwind CSS`
+Architected the TypeScript interfaces and component tree for a KPI tracking dashboard, integrating 4 REST endpoints and cutting data-fetch round trips by 40% via response caching.
+
+<br>
+
+## Publication
+
+**Signature Forgery Detection using Neural Networks** — *Indian Journal of Natural Sciences, Vol. 16, Issue 89, Apr 2025*
+Trained a Siamese Neural Network in TensorFlow on 3,000 signature pairs, achieving 95% verification accuracy and a 15% F1-score improvement through grid-search hyperparameter tuning.
+
+<br>
+
+## Stack
+
 <p align="left">
-<a href="https://twitter.com/sanketchavhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanketchavhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanket-kisan-chavhan-930042273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket kisan chavhan" height="30" width="40" /></a>
-<a href="https://instagram.com/sanket_9673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanket_9673" height="30" width="40" /></a>
-<a href="https://medium.com/@sanketchavhan9673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanketchavhan9673" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sanket_9673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sanket_9673" height="30" width="40" /></a>
-<a href="https://discord.gg/its_sanket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="its_sanket" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nodejs,mysql,tensorflow,git,figma,html,css,tailwind" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket9673&show_icons=true&locale=en&layout=compact" alt="sanket9673" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket9673&show_icons=true&locale=en" alt="sanket9673" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket9673&" alt="sanket9673" /></p>
+`LLMs` `LangChain` `LangGraph` `RAG` `AI Agents` `FastAPI` `REST APIs` `System Design` `CI/CD`
 
 <br>
 
-<img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+## GitHub Activity
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanket9673&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket9673&layout=compact&theme=default&hide_border=true" alt="top languages" />
+</div>
 
 <br>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sanket9673&label=Profile%20Views&color=blueviolet&style=flat" alt="sanket9673 profile views" />
-</p>
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+sanketch9673@gmail.com · +91 9356767964 · Greater Chennai Area
+
+</div>
