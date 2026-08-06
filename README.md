@@ -19,7 +19,7 @@
 
 ## About
 
-Full-stack engineer with production experience across data validation pipelines, GenAI-integrated dashboards, and ML classification systems. Comfortable owning a feature from database schema to deployed UI. Currently exploring agentic systems — RAG, LangChain, LangGraph — and system design at scale.
+Full-stack engineer with production experience across data validation pipelines, GenAI-integrated dashboards, and ML classification systems. Comfortable owning a feature from database schema to deployed UI. Currently exploring agentic systems - RAG, LangChain, LangGraph - and system design at scale.
 
 <br>
 
