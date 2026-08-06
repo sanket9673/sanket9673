@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sanket Kisan Chavhan</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Sanket%20Kisan%20Chavhan&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="center">I am a tech explorer🚀, 
@@ -10,10 +11,12 @@
 </p>
 <br>
 
-- 🌱 I’m currently learning **algorithms and frameworks**
+- 🌱 I'm currently learning **algorithms and frameworks**
 - 💬 Ask me about **tech, web_dev, algorithms**
 
 - 📫 Reach me through Instagram - **sanket_9673**
+
+<br clear="right"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,3 +36,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket9673&show_icons=true&locale=en" alt="sanket9673" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket9673&" alt="sanket9673" /></p>
+
+<br>
+
+<img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+
+<br>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sanket9673&label=Profile%20Views&color=blueviolet&style=flat" alt="sanket9673 profile views" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
