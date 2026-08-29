@@ -138,12 +138,12 @@ Developed a **Siamese Neural Network in TensorFlow** for signature verification 
 
 | Area | Focus |
 | --- | --- |
-| 🤖 **AI Engineering** | LLMs · RAG · AI Agents · LangChain · LangGraph |
-| ⚙️ **Backend** | Python · FastAPI · REST APIs · SQL |
-| 💻 **Frontend** | React · TypeScript · Performance Optimization |
-| 🧠 **Machine Learning** | TensorFlow · Neural Networks · Classification |
-| 🏗️ **System Design** | Scalable APIs · Data Pipelines · Architecture |
-| 🧪 **Engineering Quality** | Testing · CI/CD · Observability · Data Validation |
+| **AI Engineering** | LLMs · RAG · AI Agents · LangChain · LangGraph |
+| **Backend** | Python · FastAPI · REST APIs · SQL |
+| **Frontend** | React · TypeScript · Performance Optimization |
+| **Machine Learning** | TensorFlow · Neural Networks · Classification |
+| **System Design** | Scalable APIs · Data Pipelines · Architecture |
+| **Engineering Quality** | Testing · CI/CD · Observability · Data Validation |
 
 </div>
 
